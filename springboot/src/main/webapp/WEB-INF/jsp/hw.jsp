@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-hellor 。。。。。。。‘’‘’......
+
+hellor，
+董明辉修改了一下jsp，，，。。。。。。。。。。。。。。
+。。。。。。。。。。6666666
+>>>>>>> branch 'master' of https://github.com/huangzhenyy/xcu
 </body>
 </html>
