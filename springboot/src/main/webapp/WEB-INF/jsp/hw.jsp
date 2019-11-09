@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hellor 新修
+hellor 
 </body>
 </html>
